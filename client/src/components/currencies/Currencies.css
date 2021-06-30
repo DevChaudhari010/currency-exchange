@@ -1,0 +1,16 @@
+.Currencies-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 60%;
+}
+
+.Currencies-currency-box {
+  display: flex;
+  justify-content: space-between;
+  text-align: start;
+}
+
+.Currencies-currency-field {
+  width: 22%;
+}

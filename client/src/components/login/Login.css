@@ -1,0 +1,21 @@
+.Login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 30vh;
+  width: 40vw;
+  margin: 10vh 30vw;
+}
+
+.Login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: flex-start;
+}
+
+.Login-form-field {
+  display: flex;
+  justify-items: right;
+  justify-content: space-between;
+}
